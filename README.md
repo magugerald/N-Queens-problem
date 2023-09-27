@@ -1,5 +1,7 @@
 # N-Queens Problem
 
+![N-Queens](queen.png)
+
 The n-queens problem is a classic combinatorial puzzle and mathematical challenge.
 It involves placing n chess queens on an n×n chessboard in such a way that
 no two queens threaten each other.
